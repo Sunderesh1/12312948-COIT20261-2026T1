@@ -4,24 +4,24 @@
 
 1.	Exported project:-
 
-![exportedproject](
+![exportedproject](IMAGES/Vlan-basics-12312948.gns3project)
 
 
 2.	Screenshot of the network:-
 
-   ![network](
+   ![network](IMAGES/vlan-router-12312948.network.png)
   
 3.	Screenshot showing the ports and tags on the switch:-
 
 
-![portsandtags](
-![portsandtags](
+![portsandtags](IMAGES/vlan-basics-12312948-ports1.png)
+![portsandtags](IMAGES/vlan-basics-12312948-ports2.png)
 
-- TASK 2
+
 
 1.	Exported project
 
-![Exportedproject](
+![Exportedproject](IMAGES/Vlan-router-12312948).gns3project)
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-![network](
+![network](IMAGES/vlan-router-12312948-network.png)
 
 
 
@@ -37,4 +37,4 @@
 
 
 
-![portsandtags](
+![portsandtags](IMAGES/vlan-routers-12312948-ports.png)
