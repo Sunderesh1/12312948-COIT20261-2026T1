@@ -2,17 +2,16 @@
 
 1. Exported project
 
-![exported project]
-
+![exported project](IMAGES/View-routes-12312948.gns3project)
 
 2. Screenshot of the network
-![networkscreenshot](
+![networkscreenshot](IMAGES/View-Routes-12312948-network.png)
 
 3. Record of the IP addresses and routing tables of each host and router.
 
-![host1](images/host1routing.png)
-![host2](images/host2routing.png)
-![host3](images/host3routing.png)
+![host1](
+![host2](
+![host3]
 
 
 
