@@ -20,3 +20,26 @@
 
 
 # task 2:
+1.	Exported project
+
+  ![exportedproject](
+  
+2.	Screenshot of the network
+
+  ![network](
+  
+3.	Output  showing neigbour routers of FRR1
+
+![outputshowingneigbour](
+![outputshowingneigbour]()
+
+	  
+4.	Output showing routing table for two routers.
+![routingtable](
+![routingtable](
+![routingtable](
+![routingtable](
+
+6. output of traceroute:-
+
+![traceroute](
