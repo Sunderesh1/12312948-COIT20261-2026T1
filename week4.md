@@ -16,4 +16,7 @@
 
 
 4.Screenshot of a successful ping from a host one one subnet to a host on the other subnet.
-![successful ping]
+![ping](IMAGES/View-Routes-12312948-ping.png)
+
+
+# task 2:
