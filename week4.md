@@ -9,9 +9,9 @@
 
 3. Record of the IP addresses and routing tables of each host and router.
 
-![host1](
-![host2](
-![host3]
+![host1](IMAGES/host1routing.png)
+![host2](IMAGES/host2routing.png)
+![host3](IMAGES/host3routing.png)
 
 
 
