@@ -21,17 +21,17 @@
 
 
 3.	Record of the IP addresses and routing tables of each host and router
-- Host 1
+Host 1
 ![recordofipaddressandroutingtable](
-- Host 2
+Host 2
 ![recordofipaddressandroutingtable](
-  - HOST 3
+  HOST 3
 ![recordofipaddressandroutingtable](
-- HOST 4
+  HOST 4
 ![recordofipaddressandroutingtable](
-- ROUTER 1
+  ROUTER 1
 ![recordofipaddressandroutingtable](
-- ROUTER 2
+  ROUTER 2
 ![recordofipaddressandroutingtable](
 
 
